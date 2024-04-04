@@ -9,10 +9,10 @@ setup the project on a local computer:
 
 - URL: http://projectlibrary.infinityfreeapp.com/ 
 
-- Sample members for testing:
+- Sample members for testing: </br>
 Username: WaleedSaleh    Password: waleed0000 </br>
 Username: NajimAlfetaini    Password: najim0000 </br> 
 	   
--	Sample librarian for testing: 
+-	Sample librarian for testing: </br>
 Username: librarian    Password: library0000 </br>
 	   
