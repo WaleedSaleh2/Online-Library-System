@@ -112,11 +112,11 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `fullName`, `email`, `phoneNumber`, `username`, `password`, `photo`, `address`) VALUES
-(202003215, 'Najim Abdulkarim Musaed Alfetaini', '2@gmail.com', '33886640', 'NajimAlfetaini', '40a77f99d38035e35f64568d3d0b8f51', 'Najim.png', 'Riffa'),
-(202004452, 'Nader Dahan', '4@gmail.com', '36059919', ' NaderDahan', '6e8411895e09a876224a9abd7a38f811', 'Nader.png', 'Riffa'),
-(202004484, 'Maged Hussain', '3@gmail.com', '37762422', 'MagedHussain', '678395d3ec56639ad3c60ad6509cfdab', 'Maged.png', 'Riffa'),
-(202006448, 'Waleed Saleh Ali Saleh', '1@gmail.com', '33642632', 'WaleedSaleh', '9c1f046e426d0bde5435251db53ca2c8', 'Waleed.png', 'Riffa'),
-(202006577, 'Yousef Ali Naji', '5@gmail.com', '66761622', 'YousefAli', '292f082600a993402d2c8ceeaad51dbb', 'Yousef.png', 'Hajiyat');
+(202003215, 'Najim Abdulkarim Musaed Alfetaini', '2@gmail.com', '99', 'NajimAlfetaini', '40a77f99d38035e35f64568d3d0b8f51', 'Najim.png', 'Riffa'),
+(202004452, 'Nader Dahan', '4@gmail.com', '66', ' NaderDahan', '6e8411895e09a876224a9abd7a38f811', 'Nader.png', 'Riffa'),
+(202004484, 'Maged Hussain', '3@gmail.com', '57', 'MagedHussain', '678395d3ec56639ad3c60ad6509cfdab', 'Maged.png', 'Riffa'),
+(202006448, 'Waleed Saleh Ali Saleh', '1@gmail.com', '567', 'WaleedSaleh', '9c1f046e426d0bde5435251db53ca2c8', 'Waleed.png', 'Riffa'),
+(202006577, 'Yousef Ali Naji', '5@gmail.com', '66', 'YousefAli', '292f082600a993402d2c8ceeaad51dbb', 'Yousef.png', 'Hajiyat');
 
 --
 -- Indexes for dumped tables
